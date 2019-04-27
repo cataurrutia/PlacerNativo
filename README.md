@@ -1,2 +1,2 @@
 # PlacerNativo
-Proyecto de tienda online. Prestashop, Symfony, PHP, MySql, HTML, CSS, JavaScript
+Proyecto de tienda online. PHP, Laravel, MySql, HTML, CSS, JavaScript
